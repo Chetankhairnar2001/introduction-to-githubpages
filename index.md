@@ -1,6 +1,6 @@
 ---
 title: Welcome to my blog
 
-author: Chetan Sunil Khairnar
+date: 2022 - 09 - 10
 ---
 
